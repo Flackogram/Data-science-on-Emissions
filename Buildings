@@ -1,0 +1,81 @@
+iso3_country,sector,sub-sector,Year,gas,emissions_quantity,temporal_granularity
+CAN,buildings,non-residential-onsite-fuel-usage,2015,co2,18860061.676,annual
+CAN,buildings,non-residential-onsite-fuel-usage,2016,co2,18300065.215,annual
+CAN,buildings,non-residential-onsite-fuel-usage,2017,co2,19350310.075,annual
+CAN,buildings,non-residential-onsite-fuel-usage,2018,co2,20653923.269,annual
+CAN,buildings,non-residential-onsite-fuel-usage,2019,co2,20327735.838,annual
+CAN,buildings,non-residential-onsite-fuel-usage,2020,co2,19183147.224,annual
+CAN,buildings,non-residential-onsite-fuel-usage,2021,co2,19762156.278,annual
+CAN,buildings,non-residential-onsite-fuel-usage,2022,co2,20576073.519,annual
+CAN,buildings,non-residential-onsite-fuel-usage,2023,co2,20671582.631,annual
+CAN,buildings,non-residential-onsite-fuel-usage,2024,co2,20671582.631,annual
+CAN,buildings,residential-onsite-fuel-usage,2015,co2,69247903.8813102,annual
+CAN,buildings,residential-onsite-fuel-usage,2016,co2,67546867.67528214,annual
+CAN,buildings,residential-onsite-fuel-usage,2017,co2,71319969.60922684,annual
+CAN,buildings,residential-onsite-fuel-usage,2018,co2,75973468.68409249,annual
+CAN,buildings,residential-onsite-fuel-usage,2019,co2,74447365.98415628,annual
+CAN,buildings,residential-onsite-fuel-usage,2020,co2,70249426.57198854,annual
+CAN,buildings,residential-onsite-fuel-usage,2021,co2,72412373.77913998,annual
+CAN,buildings,residential-onsite-fuel-usage,2022,co2,75278774.23287,annual
+CAN,buildings,residential-onsite-fuel-usage,2023,co2,75679887.99641998,annual
+CAN,buildings,residential-onsite-fuel-usage,2024,co2,75679887.99642001,annual
+FRA,buildings,non-residential-onsite-fuel-usage,2015,co2,14338971.602000002,annual
+FRA,buildings,non-residential-onsite-fuel-usage,2016,co2,14293343.771000002,annual
+FRA,buildings,non-residential-onsite-fuel-usage,2017,co2,14221869.953000002,annual
+FRA,buildings,non-residential-onsite-fuel-usage,2018,co2,13405803.738999996,annual
+FRA,buildings,non-residential-onsite-fuel-usage,2019,co2,13109332.051,annual
+FRA,buildings,non-residential-onsite-fuel-usage,2020,co2,12546548.641,annual
+FRA,buildings,non-residential-onsite-fuel-usage,2021,co2,13473625.8,annual
+FRA,buildings,non-residential-onsite-fuel-usage,2022,co2,12616057.299,annual
+FRA,buildings,non-residential-onsite-fuel-usage,2023,co2,12688825.02,annual
+FRA,buildings,non-residential-onsite-fuel-usage,2024,co2,12688825.02,annual
+FRA,buildings,residential-onsite-fuel-usage,2015,co2,65566596.95200001,annual
+FRA,buildings,residential-onsite-fuel-usage,2016,co2,65123568.648,annual
+FRA,buildings,residential-onsite-fuel-usage,2017,co2,64744895.53699999,annual
+FRA,buildings,residential-onsite-fuel-usage,2018,co2,61521880.82399999,annual
+FRA,buildings,residential-onsite-fuel-usage,2019,co2,60162867.73,annual
+FRA,buildings,residential-onsite-fuel-usage,2020,co2,57855492.942,annual
+FRA,buildings,residential-onsite-fuel-usage,2021,co2,62146227.33200001,annual
+FRA,buildings,residential-onsite-fuel-usage,2022,co2,58381131.087,annual
+FRA,buildings,residential-onsite-fuel-usage,2023,co2,58699723.88999999,annual
+FRA,buildings,residential-onsite-fuel-usage,2024,co2,58699723.89,annual
+GBR,buildings,non-residential-onsite-fuel-usage,2015,co2,18022496.779048245,annual
+GBR,buildings,non-residential-onsite-fuel-usage,2016,co2,19473461.4616454,annual
+GBR,buildings,non-residential-onsite-fuel-usage,2017,co2,18946596.95373686,annual
+GBR,buildings,non-residential-onsite-fuel-usage,2018,co2,19311590.56599265,annual
+GBR,buildings,non-residential-onsite-fuel-usage,2019,co2,18766280.810212072,annual
+GBR,buildings,non-residential-onsite-fuel-usage,2020,co2,18804073.079998776,annual
+GBR,buildings,non-residential-onsite-fuel-usage,2021,co2,19893346.37151,annual
+GBR,buildings,non-residential-onsite-fuel-usage,2022,co2,18987309.932160005,annual
+GBR,buildings,non-residential-onsite-fuel-usage,2023,co2,19072023.06333,annual
+GBR,buildings,non-residential-onsite-fuel-usage,2024,co2,19072023.06333001,annual
+GBR,buildings,residential-onsite-fuel-usage,2015,2015-12-31 00:00:00,co2,67694274.18933246,annual
+GBR,buildings,residential-onsite-fuel-usage,2016,2016-12-31 00:00:00,co2,73343675.95147379,annual
+GBR,buildings,residential-onsite-fuel-usage,2017,2017-12-31 00:00:00,co2,71431333.74480006,annual
+GBR,buildings,residential-onsite-fuel-usage,2018,2018-12-31 00:00:00,co2,72669040.21860258,annual
+GBR,buildings,residential-onsite-fuel-usage,2019,2019-12-31 00:00:00,co2,70616969.52174206,annual
+GBR,buildings,residential-onsite-fuel-usage,2020,2020-12-31 00:00:00,co2,70794556.88060518,annual
+GBR,buildings,residential-onsite-fuel-usage,2021,2021-12-31 00:00:00,co2,74925950.33,annual
+GBR,buildings,residential-onsite-fuel-usage,2022,2022-12-31 00:00:00,co2,71518643.003,annual
+GBR,buildings,residential-onsite-fuel-usage,2023,2023-12-31 00:00:00,co2,71831265.49212003,annual
+GBR,buildings,residential-onsite-fuel-usage,2024,2024-12-31 00:00:00,co2,71831265.49212,annual
+USA,buildings,non-residential-onsite-fuel-usage,2015,co2,112372394.34022953,annual
+USA,buildings,non-residential-onsite-fuel-usage,2016,co2,108811293.70122226,annual
+USA,buildings,non-residential-onsite-fuel-usage,2017,co2,109061177.58322276,annual
+USA,buildings,non-residential-onsite-fuel-usage,2018,co2,120538906.55624624,annual
+USA,buildings,non-residential-onsite-fuel-usage,2019,co2,119663813.22024444,annual
+USA,buildings,non-residential-onsite-fuel-usage,2020,co2,111017495.96222676,annual
+USA,buildings,non-residential-onsite-fuel-usage,2021,co2,113259622.22149992,annual
+USA,buildings,non-residential-onsite-fuel-usage,2022,co2,118640481.06816997,annual
+USA,buildings,non-residential-onsite-fuel-usage,2023,co2,119267250.262,annual
+USA,buildings,non-residential-onsite-fuel-usage,2024,co2,119267250.262,annual
+USA,buildings,residential-onsite-fuel-usage,2015,co2,447661978.5965587,annual
+USA,buildings,residential-onsite-fuel-usage,2016,co2,433299538.8174833,annual
+USA,buildings,residential-onsite-fuel-usage,2017,co2,433705862.9152186,annual
+USA,buildings,residential-onsite-fuel-usage,2018,co2,475703464.1853814,annual
+USA,buildings,residential-onsite-fuel-usage,2019,co2,469411733.773088,annual
+USA,buildings,residential-onsite-fuel-usage,2020,co2,435551519.3408126,annual
+USA,buildings,residential-onsite-fuel-usage,2021,co2,445038071.8207498,annual
+USA,buildings,residential-onsite-fuel-usage,2022,co2,465392080.7519998,annual
+USA,buildings,residential-onsite-fuel-usage,2023,co2,467914281.8489096,annual
+USA,buildings,residential-onsite-fuel-usage,2024,co2,467914281.84890985,annual
