@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>Climate Trace analysis</title>
+            <style>
+
+
+.
+
+</style>
+            
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <h1 id="climate-trace-analysis">Climate Trace analysis</h1>
+<p>This climate trace analysis is a groundbreaking initiative that leverages cutting-edge technology to provide accurate  database of the greenhouses gases emission of carbon dioxide equivalent(co2e 100).
+This analysis is to provide the data of gases emission by China(CHN) in the Industrial Energy Use(Manufacturing and Construction).</p>
+<h2 id="overview">Overview</h2>
+<p>Why China?
+On a global scale the China, is the leading country in the energy sector.
+Since the energy sector is encompasse of a wide array of activities that produce emissions-ranging from electricity and heat production to transportation, building operation, and several industrial processes.Since the energy sector contribute approximately 70-77% of global emissions of co2e annually, making the energy sector the driving force behind the emission of greenhouse gases.</p>
+<p>Metadata description for: <subsector-name>_country_emissions.csv
+Data-attribute: Definition
+iso3_country Corresponds to the ISO 3166-1 alpha-3 code for the country.</p>
+<p>End_Year :
+Indicates the accumulation of  emissions quantities of the greenhouse gases released from the start to the end of the year across all secotrs.</p>
+<p>sector:
+The  sectors under energy which contribute more to greenhouse gases emissions into the atmosphere causing depletion of the ozone layer,i.e(building, manufacturing, transportation, power)</p>
+<p>subsector :
+With each sector encompasses wide array of activities that produce greenhouse gases emissions.</p>
+<p>Emission quantity:
+It's measured in co2e_100.</p>
+<p>emissions_quantity Quantity of gas emitted in metric tonnes. If reported quantity is zero, it means that gas is not emitted. If reported quantity is
+empty/null/N-A, data is not yet available.
+emissions_quantity_units Units of reported &quot;emissions_quantity&quot; field. Climate TRACE used SI base units and standard abbreviations when possible. https:
+<a href="//www.nist.gov/pml/owm/metric-si/si-units">//www.nist.gov/pml/owm/metric-si/si-units</a>
+temporal_granularity Resolution of the data available.
+created_date Date country emissions quantity was added to the Climate TRACE database.
+modified_date Last date on which any updates were made to the dataset for the specific country.</p>
+<h2 id="mission">Mission</h2>
+<p>This analyis is to allow scientists, policymakers, industires to aggregates and report the impacts of greenhouse gases emissions in single units. This simplifies the tracking analysis, setting targets and designing strategies to reduce the impact of the greenhouses gases being released into the ozone layer. For example, during the covid-19 pandemic led to decline in emissions, as economic activity was halted and energy demand subsided for short periods.</p>
+<h2 id="key-features">Key Features</h2>
+<ul>
+<li>
+<p><strong>Emission</strong> - co2e_100 defines how greenhouse gas emissions are standardized when using a 100-year global warming potential(GWP) time horizon. What co2e encompasses:</p>
+</li>
+<li>
+<p>Carbon Dioxide(CO2): Produced by deforestation and various industrial processes. According source, just the CO2 emission from fossil fuel and industrial processes(energy sector) have climed to roughly 35-37billion tonnes per year. CO2 alone accounts for almost 70-77% of CO2e released annually.</p>
+</li>
+<li>
+<p>Methane(CH4): Produced by human activites(such as fuel fuel extraction, waste management and agriculture). CH4 has higher global warming potential(GWP) than CO2, meaning one tonne of CH4 is equally to manny tonnes of CO2.</p>
+</li>
+<li>
+<p>Nitride oxide(N2O):emitted from agricultural activities(especially by the usage of synthetic fertilizers), industrial processes, and fossil fuel <a href="http://combustion.It">combustion.It</a>'s GWP is greater than CO2.</p>
+</li>
+<li>
+<p>Fluorinated gases: This group contain many synthetic compounds such as HFCs(Hydrofluorocarbons), PFCs(Perofluorocarbons), NF3(triflouride), SF6(hexafluoride). These gases are released in smaller quantities, but for a longer time can have a high GWP.</p>
+</li>
+</ul>
+<p>-<strong>Statistics</strong> - From the energy sector fold, the amount of co2e_100 produce from the 2015 to 2025 accounts for 1.3trillion metric tonnes of co2e. The power generation sector accounts for 56 Billion metric tonnes of co2e and the maufacturing sector accounts for 54 Billion metric tonnes of co2e</p>
+<h3 id="challenges">Challenges</h3>
+<p>As the world continues to move towards advancement of the industrilisation and high demand of power genration meaning there's going to be more, and more released of tonnes of CO2e in the following years ahead. Each of these gases demonstrates how subtle changes in atmospheric composition can have a large-scale effects. These gases have rapildly altered our planet's natural climate equillibrium, is as result of human activities which magnifies the greenhouse emission but also participates in reactions that disrupt the stratospheric ozone layer.</p>
+<h2 id="plan">Plan</h2>
+<ul>
+<li>To help promote energy efficiency and transition to renewable energy sources.</li>
+</ul>
+<h4 id=""></h4>
+<p>A switch to cleanner energy sources can make a significant dent in emissions of CO2e.</p>
+
+            
+            
+        </body>
+        </html>
